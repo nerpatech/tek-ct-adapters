@@ -2,18 +2,15 @@
 
 Test fixture adapter for Tektronix curve tracers. Fits Tek 576, Tek 577 test fixtures, possibly others.
 
-
+![TL431 adapter, bottom view](img/tl431-bottom.png)
 
 ## Bill Of Materials
 
-Inline link [Amazon](https://www.amazon.com/gp/product/B07Y3PVDMZ "Amazon")
-
 | Item | Qty | Source |
-| ---- | --- | ------ |
+| --- | --- | --- |
 | Prototype Board, 5x7mm, 0.1 in. hole pitch | 1 | [Amazon](https://www.amazon.com/gp/product/B07Y3PVDMZ "Amazon")|
-| 4 mm RC-style banana plugs | 3 | https://www.amazon.com/gp/product/B07CSQH2QC |
-| 6mm silicone rubber feet | 4 | https://www.amazon.com/HAWORTHS-Bumpers-Self-Adhesive-Hemispherical-Bumpons/dp/B06XX3192J
-| 3 pin female 2.54mm pitch header | 1 | https://www.amazon.com/Chanzon-Straight-Connector-Breadboard-Electronic/dp/B09MYMD4YS https://www.sparkfun.com/products/13875 | BCS-103-F-S-PE pass through
+| 4 mm RC-style banana plugs | 3 | [Amazon](https://www.amazon.com/gp/product/B07CSQH2QC "Amazon")|
+| 6mm silicone rubber feet | 4 | [Amazon](https://www.amazon.com/HAWORTHS-Bumpers-Self-Adhesive-Hemispherical-Bumpons/dp/B06XX3192J "Amazon")
 | M3x8mm button head socket screws | 4 |
 | M3 nuts | 4 | 
 
