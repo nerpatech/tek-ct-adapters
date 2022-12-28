@@ -11,7 +11,7 @@ Test fixture adapter for Tektronix curve tracers. Fits Tek 576, Tek 577 test fix
 | Prototype Board, 5x7mm, 0.1 in. hole pitch | 1 | [Amazon](https://amzn.to/3WRZzZg "Amazon")|
 | 4 mm RC-style banana plugs | 3 | [Amazon](https://amzn.to/3YWXP2K "Amazon")|
 | 6mm silicone rubber feet | 4 | [Amazon](https://amzn.to/3Wtbopl "Amazon")|
-| 3 pin female 2.54mm pitch header | 1 | [Amazon](https://amzn.to/3YYWmcj "Amazon"), [Sparkfun](https://www.sparkfun.com/products/13875 Sparkfun"), [Newark](https://www.newark.com/samtec/bcs-103-f-s-pe/connector-receptacle-3-contacts/dp/38AC3722?CMP=AFC-OP "Newark")|
+| 3 pin female 2.54mm pitch header | 1 | [Amazon](https://amzn.to/3YYWmcj "Amazon"), [Sparkfun](https://www.sparkfun.com/products/13875 "Sparkfun"), [Newark](https://www.newark.com/samtec/bcs-103-f-s-pe/connector-receptacle-3-contacts/dp/38AC3722?CMP=AFC-OP "Newark")|
 | M3x8mm button head socket screws | 4 | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4783 "Bolt Depot")|
 | M3 nuts | 4 | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4783 "Bolt Depot")|
 
