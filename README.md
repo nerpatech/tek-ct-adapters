@@ -8,9 +8,9 @@ Test fixture adapter for Tektronix curve tracers. Fits Tek 576, Tek 577 test fix
 
 | Item | Qty | Source |
 | --- | --- | --- |
-| Prototype Board, 5x7mm, 0.1 in. hole pitch | 1 | [Amazon](https://www.amazon.com/gp/product/B07Y3PVDMZ "Amazon")|
-| 4 mm RC-style banana plugs | 3 | [Amazon](https://www.amazon.com/gp/product/B07CSQH2QC "Amazon")|
-| 6mm silicone rubber feet | 4 | [Amazon](https://www.amazon.com/HAWORTHS-Bumpers-Self-Adhesive-Hemispherical-Bumpons/dp/B06XX3192J "Amazon")
+| Prototype Board, 5x7mm, 0.1 in. hole pitch | 1 | [Amazon](https://amzn.to/3WRZzZg "Amazon")|
+| 4 mm RC-style banana plugs | 3 | [Amazon](https://amzn.to/3YWXP2K "Amazon")|
+| 6mm silicone rubber feet | 4 | [Amazon](https://amzn.to/3Wtbopl "Amazon")
 | M3x8mm button head socket screws | 4 |
 | M3 nuts | 4 | 
 
