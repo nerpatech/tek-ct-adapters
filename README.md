@@ -2,7 +2,7 @@
 
 Test fixture adapter for Tektronix curve tracers. Fits Tek 576, Tek 577 test fixtures, possibly others.
 
-![T)-252 adapter plugged into the curve tracer](img/to252-adapter-ct-connected.png)
+![TO-252 adapter plugged into the curve tracer](img/to252-adapter-ct-connected.png)
 
 ## Bill Of Materials
 
@@ -22,10 +22,11 @@ Drill Press*, 3/16" drill bit*, 3D printer, any rigid filament (PETG, PLA, ABS, 
 
 ## Assembly
 
-Please also check the 'img/' folder.
+Printed part models are in 'STL/' folder.
+Please also check the 'img/' folder for assembly pictures.
 
 1. Print bottom, middle, and top pieces, as well as two jigs. Printing parameters: 0.6mm or smaller nozzle, 0.3mm or lower
-layer height.
+layer height. 
 
 2. Using the drill jig find holes that can be used as pilots for 3mm screws on the prototype board, mark them, remove the jig, then drill 3mm holes where marked.
 
