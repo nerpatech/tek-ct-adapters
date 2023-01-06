@@ -11,8 +11,7 @@ Test fixture adapter for Tektronix curve tracers. Fits Tek 576, Tek 577 test fix
 | Prototype Board, 5x7mm, 0.1 in. hole pitch | 1 | [Amazon](https://amzn.to/3WRZzZg "Amazon")|
 | 4 mm RC-style banana plugs | 3 | [Amazon](https://amzn.to/3YWXP2K "Amazon")|
 | 6mm silicone rubber feet | 2 | [Amazon](https://amzn.to/3Wtbopl "Amazon")|
-| TO-252 burn-in adapter | 1 | [Aliexpress](https://www.aliexpress.us/item/2251832848639980.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US
-"Aliexpress")|
+| TO-252 burn-in adapter | 1 | [Aliexpress](https://www.aliexpress.us/item/2251832848639980.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US "Aliexpress")|
 | M3x8mm button head socket screws | 4 | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4783 "Bolt Depot")|
 | M3 nuts | 4 | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4783 "Bolt Depot")|
 
